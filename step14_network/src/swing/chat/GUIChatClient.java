@@ -137,7 +137,7 @@ public class GUIChatClient extends JFrame implements ActionListener, Runnable{
 	
 	public static void main(String[] args) {
 		new GUIChatClient();
-	}
+	 }
 	
 }
 
